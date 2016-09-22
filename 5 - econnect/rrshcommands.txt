@@ -1,0 +1,4 @@
+Kappa
+/bin/ls
+/bin/cat
+/bin/wc
